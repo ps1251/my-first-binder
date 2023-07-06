@@ -1,0 +1,4 @@
+set -e
+
+(* this can be replaced with any wget/shell command to download files *)
+pip install pandas 
